@@ -13,5 +13,5 @@ We will be using GitHub as our primary way of managing storage of code, version 
 
 ** Please do not edit this repository.  It is created and mantained by mailto:samuelm@wainuiomatahigh.school.nz **
 
-If you want to have your own notes, files and information based on this repository, please FORK this.
+If you want to have your own notes, files, and information based on this repository, please FORK this repository. [fork my repository](https://github.com/user/repository/fork)
 
