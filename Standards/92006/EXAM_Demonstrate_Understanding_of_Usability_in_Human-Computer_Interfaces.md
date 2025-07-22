@@ -18,4 +18,5 @@ We will hold this exam during derived grade week
 
 ## $${\color{red} IMPORTANT!}$$
 
-* Learn * and * apply *
+**Learn** and **apply** the vocabulary and terms to describe and justify the usability choices being examined.  Many students have provided
+excellent descriptions of some of the heuristics and rules but have FAILED the exam through not applying correct terms and vocabulary.
