@@ -15,4 +15,4 @@ We will hold this exam during derived grade week
 - [ ] 
 
 
-## <font color='red'>WARNING! </font>
+## \textcolor{red}WARNING!{red}
