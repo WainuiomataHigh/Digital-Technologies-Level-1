@@ -7,5 +7,5 @@ We will hold this exam during derived grade week
 [Official Site](https://ncea.education.govt.nz/technology/digital-technologies/1/3?view=standard)
 
 ## You need to know:
-[] Neilsons Heuristics
+- [ ] Neilsons Heuristics
 
