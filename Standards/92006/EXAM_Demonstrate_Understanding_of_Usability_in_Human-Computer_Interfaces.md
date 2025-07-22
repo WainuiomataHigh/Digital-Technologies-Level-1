@@ -23,4 +23,4 @@ We will hold this exam during derived grade week
 - [ ] 
 
 
-## $${\color{red} WARNING!
+## $${\color{red} WARNING!}$$
