@@ -1,10 +1,3 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 # Demonstrate understanding of usability in human-computer interfaces.
 
@@ -23,4 +16,4 @@ We will hold this exam during derived grade week
 - [ ] 
 
 
-## $${\color{red} WARNING!}$$
+## $${\color{red} IMPORTANT!}$$
