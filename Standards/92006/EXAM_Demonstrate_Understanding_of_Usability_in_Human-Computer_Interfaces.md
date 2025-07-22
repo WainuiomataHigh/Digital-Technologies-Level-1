@@ -17,3 +17,5 @@ We will hold this exam during derived grade week
 
 
 ## $${\color{red} IMPORTANT!}$$
+
+* Learn * and * apply *
