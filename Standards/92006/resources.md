@@ -15,3 +15,4 @@ IMPORTANT DOCUMENTATION Overview of Standard and explanation of standard
 | **Neilson Usability Heuristics** | Computer Science Field Guide and<br><br><https://www.nngroup.com/articles/ten-usability-heuristics/> |     |
 | **Mātāpono Māori** | Computer Science Field Guide<br><br>AND<br><br><https://www.xn--tepkenga-szb.ac.nz/assets/Te-Kawa-Maiorooro/Nga-Matapono-and-Nga-Uara.pdf> |     |
 | **Internal / External consistency** | <https://www.csfieldguide.org.nz/en/chapters/human-computer-interaction/usability-heuristics/#consistency-and-standards><br><br><https://www.nngroup.com/articles/consistency-and-standards/> | This is sometimes put under the heuristics but is vital by itself. Some call it the “golden rule of HCI” |
+| **A great Youtube vid resouce** | <https://www.youtube.com/watch?v=4cn-dGFI31E> | A playlist put together by Felicity Powell.  Old version of standard, but some pretty good content.|
